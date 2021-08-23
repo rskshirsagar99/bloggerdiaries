@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bloggerdiaries/static/css/main.ff3dedf8.chunk.css",
+    "main.js": "/bloggerdiaries/static/js/main.9178c0e5.chunk.js",
+    "main.js.map": "/bloggerdiaries/static/js/main.9178c0e5.chunk.js.map",
+    "runtime-main.js": "/bloggerdiaries/static/js/runtime-main.87e1d9cb.js",
+    "runtime-main.js.map": "/bloggerdiaries/static/js/runtime-main.87e1d9cb.js.map",
+    "static/js/2.d0601117.chunk.js": "/bloggerdiaries/static/js/2.d0601117.chunk.js",
+    "static/js/2.d0601117.chunk.js.map": "/bloggerdiaries/static/js/2.d0601117.chunk.js.map",
+    "index.html": "/bloggerdiaries/index.html",
+    "static/css/main.ff3dedf8.chunk.css.map": "/bloggerdiaries/static/css/main.ff3dedf8.chunk.css.map",
+    "static/js/2.d0601117.chunk.js.LICENSE.txt": "/bloggerdiaries/static/js/2.d0601117.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/bloggerdiaries/static/media/para.67dcbff3.jpg",
+    "static/media/write.css": "/bloggerdiaries/static/media/wrtie-bg7.7af5aea4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87e1d9cb.js",
+    "static/js/2.d0601117.chunk.js",
+    "static/css/main.ff3dedf8.chunk.css",
+    "static/js/main.9178c0e5.chunk.js"
+  ]
+}
